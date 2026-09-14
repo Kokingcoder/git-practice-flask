@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Local instance config and database
+instance/
+
+# Environment variables / secrets
+.instance/
+
+# Environment variables / secrets
+.env
+
+# macOS metadata
+.DS_Store
